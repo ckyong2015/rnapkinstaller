@@ -1,5 +1,6 @@
 {
-  "version": "1.0.1",
+  "name": "rnapkinstaller",
+  "version": "1.0.0",
   "description": "A react-native library to install APK on Android",
   "main": "index.js",
   "scripts": {
@@ -9,14 +10,13 @@
     "react-native",
     "react-native-app-install"
   ],
-  "author": "nodece",
-  "license": "MIT",
+  "author": "ck yong <ckyong2010@gmail.com>",
+  "license": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckyong2015/rnapkinstaller.git"
+    "url": "git@github.com:ckyong2015/rnapkinstaller.git"
   },
   "peerDependencies": {
-    "react-native": "^0.60.6"
+    "react-native": ">=0.44.0"
   }
 }
-
